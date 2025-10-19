@@ -8,7 +8,7 @@ export default function Hitung() {
         <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-8 text-center">
           <div>
             <h2 className="text-4xl md:text-7xl mb-2 font-bold">
-              <CountUp end={30} duration={5} />
+              <CountUp end={34} duration={5} />
             </h2>
             <p className="text-xl font-light text-gray-400">Orang</p>
           </div>

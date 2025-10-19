@@ -38,7 +38,7 @@ interface VotingData {
 
 export default function ResultChart({ data }: { data: VotingData }) {
   const colors = [
-    "#FFD700", // Gold
+    "#2facd1", // Replaced gold
     "#FF6B6B", // Red
     "#4ECDC4", // Teal
     "#45B7D1", // Blue
