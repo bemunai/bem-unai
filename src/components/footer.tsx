@@ -8,20 +8,7 @@ import Image from 'next/image';
 export function Footer() {
   return (
     <footer className="bg-black">
-      <Image
-        src="/batik.png"
-        alt="Line Batik"
-        className="md:w-full hidden md:block mb-5"
-        width={1920}
-        height={1080}
-      />
-      <Image
-        src="/batik-2.png"
-        alt="Line Batik"
-        className="md:hidden mb-5"
-        width={1920}
-        height={1080}
-      />
+
       <div className="footer text-base-content items-start md:justify-between px-5 md:px-20 py-10 flex flex-col md:flex-row">
         <div className="md:mx-0 mx-auto">
           <Image

@@ -15,7 +15,7 @@ const kelola = [
   { name: "Kelola Pemerintahan", href: "/kelola-pemerintahan" },
   { name: "Kelola Portal", href: "/kelola-portal" },
   { name: "Kelola Informasi", href: "/kelola-informasi" },
-  { name: "Kelola Kontak", href: "/kelola-kontak" },
+  { name: "Kelola Aspirasi", href: "/kelola-kontak" },
   { name: "Kelola Kandidat", href: "/kelola-kandidat" },
   { name: "Kelola Voting", href: "/kelola-voting" },
 ];
@@ -86,7 +86,7 @@ export function Navbar({ user, dataBem, isCandidateOpen }: NavbarProps) {
             width={40}
             height={40}
           />
-          <span className="hidden md:block">BEM Unai</span>
+          <span className="hidden md:block">BEM UNAI</span>
         </Link>
       </div>
       <div className="flex-none">
@@ -207,7 +207,7 @@ export function Navbar({ user, dataBem, isCandidateOpen }: NavbarProps) {
             <Link href="/berita">Informasi</Link>
           </li>
           <li className={pathname === "/contact" ? "text-secondary" : ""}>
-            <Link href="/contact">Kontak</Link>
+            <Link href="/contact">Ruang Aspirasi Mahasiswa</Link>
           </li>
           {isCandidateOpen && (
             <>

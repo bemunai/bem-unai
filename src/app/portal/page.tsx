@@ -47,7 +47,7 @@ export default async function page() {
             BEM UNAI
           </h1>
           <h6 className="text-lg text-center opacity-50">
-            #Dirandra #Nawasena
+            #samubhakta
           </h6>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-8 w-full max-w-4xl mx-auto">

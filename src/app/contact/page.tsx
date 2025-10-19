@@ -2,12 +2,16 @@ import { Metadata } from "next";
 import { ContactForm } from "./ContactForm";
 
 export const metadata: Metadata = {
-  title: "Kontak Kami | BEM UNAI",
+  title: "Ruang Aspirasi Mahasiswa",
   description:
     "Hubungi kami untuk informasi atau masukan. Kirim pesan melalui formulir kontak resmi BEM UNAI. Email dan nama Anda tidak akan dipublikasikan.",
-  keywords: ["Kontak BEM UNAI", "Formulir Kontak", "Masukan Mahasiswa"],
+  keywords: [
+    "Ruang Aspirasi Mahasiswa",
+    "Formulir Kontak",
+    "Masukan Mahasiswa",
+  ],
   openGraph: {
-    title: "Kontak BEM UNAI",
+    title: "Ruang Aspirasi Mahasiswa",
     description: "Badan Eksekutif Mahasiswa Universitas Advent Indonesia",
     type: "website",
     url: "/contact",

@@ -51,9 +51,9 @@ export default {
     themes: [
       {
         mytheme: {
-          primary: "#151A1E",
-          secondary: "#CECA83",
-          third: "#9C8C38",
+          primary: "#1B3C53",
+          secondary: "#D2C1B6",
+          third: "#ffff",
         },
       },
     ],

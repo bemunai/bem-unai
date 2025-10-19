@@ -17,7 +17,7 @@ const kelola = [
   { name: "Kelola Pemerintahan", href: "/kelola-pemerintahan" },
   { name: "Kelola Portal", href: "/kelola-portal" },
   { name: "Kelola Informasi", href: "/kelola-informasi" },
-  { name: "Kelola Kontak", href: "/kelola-kontak" },
+  { name: "Kelola Aspirasi", href: "/kelola-kontak" },
   { name: "Kelola Kandidat", href: "/kelola-kandidat" },
   { name: "Kelola Voting", href: "/kelola-voting" },
 ];
@@ -121,7 +121,7 @@ export default function NavbarMobile({
         </li>
         <li className={pathname === "/contact" ? "text-secondary" : ""}>
           <Link href="/contact" onClick={handleClick}>
-            Kontak
+            Ruang Aspirasi Mahasiswa
           </Link>
         </li>
         {isCandidateOpen && (
