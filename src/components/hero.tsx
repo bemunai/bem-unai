@@ -8,7 +8,7 @@ export function Hero() {
             Kabinet 2025 - 2026
           </p>
           <h1 className="font-bigNoddle judul">
-            SAMUDRA <span className="ml-0">BHAKTI</span>
+            SAMUDERA <span className="ml-0">BHAKTI</span>
           </h1>
           <p className="text-lg md:text-xl my-5 leading-tight ">
             <span className="bg-secondary text-primary px-2 py-1">

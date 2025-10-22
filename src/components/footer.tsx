@@ -3,12 +3,11 @@ import {
   AiOutlineInstagram,
   AiOutlineTikTok,
 } from "react-icons/ai";
-import Image from 'next/image';
+import Image from "next/image";
 
 export function Footer() {
   return (
     <footer className="bg-black">
-
       <div className="footer text-base-content items-start md:justify-between px-5 md:px-20 py-10 flex flex-col md:flex-row">
         <div className="md:mx-0 mx-auto">
           <Image
@@ -28,14 +27,15 @@ export function Footer() {
             height={320}
           />
           <p className="md:mt-5  font-light text-gray-400">
-            Jl. Kolonel Masturi No.288, Cihanjuang Rahayu, <br /> Kec. Parongpong,
-            Kabupaten Bandung Barat, Jawa Barat 40559
+            Jl. Kolonel Masturi No.288, Cihanjuang Rahayu, <br /> Kec.
+            Parongpong, Kabupaten Bandung Barat, Jawa Barat 40559
           </p>
         </div>
       </div>
       <div className=" md:px-20 py-5 md:py-10 flex flex-col md:flex-row justify-between items-center">
         <p className="text-xs md:text-sm text-gray-300 mb-5 md:mb-0 order-2 md:order-1">
-          Copyright © {new Date().getFullYear()} - Kementrian Komunikasi BEM UNAI
+          Copyright © {new Date().getFullYear()} - Kementerian Komunikasi BEM
+          UNAI
         </p>
 
         <div className="flex gap-5 order-1 md:order-2 mb-5 md:mb-0">

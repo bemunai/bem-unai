@@ -52,7 +52,7 @@ export default async function Page({
 }) {
   const { abbreviation } = await params;
   const data = await getOrganisasiByAbbreviation(abbreviation);
-  const parent = data?.type === "Kementrian";
+  const parent = data?.type === "Kementerian";
 
   if (!data) {
     return <NotFound />;
