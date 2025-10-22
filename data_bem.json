@@ -5,7 +5,7 @@
     "title": "Presiden",
     "description": "Presiden BEM UNAI adalah pemimpin tertinggi dalam organisasi BEM UNAI. Ia bertanggung jawab untuk mengarahkan dan mengelola seluruh kegiatan organisasi, memastikan visi dan misi BEM UNAI tercapai, serta mewakili suara mahasiswa dalam berbagai forum. Selain itu, Presiden juga berperan dalam merencanakan program kerja dan mengevaluasi hasil kegiatan.",
     "image": "staff_inti"
-},
+  },
   {
     "abbreviation": "wakpres",
     "type": "Staff Inti",
@@ -14,7 +14,7 @@
     "image": "staff_inti"
   },
   {
-  "abbreviation": "sekjen",
+    "abbreviation": "sekjen",
     "type": "Staff Inti",
     "title": "Sekretaris Jendral",
     "description": "Sekretaris Jendral BEM UNAI bertanggung jawab untuk mengelola administrasi dan dokumentasi organisasi serta menjadi koordinator antar divisi.",
@@ -29,10 +29,10 @@
   },
   {
     "abbreviation": "mendagri",
-    "type": "Kementrian",
+    "type": "Kementerian",
     "title": "Menteri Dalam Negri",
     "description": "Menteri Dalam Negri BEM UNAI bertanggung jawab untuk mengelola kegiatan internal organisasi dan memastikan operasional sehari-hari berjalan dengan baik.",
-    "image": "kementrian",
+    "image": "kementerian",
     "family": ["mendagri", "sosbud", "creative"]
   },
   {
@@ -53,10 +53,10 @@
   },
   {
     "abbreviation": "logistik",
-    "type": "Kementrian",
+    "type": "Kementerian",
     "title": "Menteri Logistik",
     "description": "Menteri Logistik BEM UNAI bertanggung jawab untuk mengelola sumber daya dan logistik yang diperlukan untuk kegiatan organisasi.",
-    "image": "kementrian",
+    "image": "kementerian",
     "family": ["logistik", "perlengkapan"]
   },
   {
@@ -69,10 +69,10 @@
   },
   {
     "abbreviation": "pengabdian",
-    "type": "Kementrian",
+    "type": "Kementerian",
     "title": "Menteri Pengabdian Masyarakat",
     "description": "Menteri Pengabdian Masyarakat BEM UNAI bertanggung jawab untuk mengorganisir kegiatan pengabdian masyarakat yang bermanfaat bagi masyarakat luas.",
-    "image": "kementrian",
+    "image": "kementerian",
     "family": ["pengabdian", "lingkungan", "bakmas"]
   },
   {
@@ -93,10 +93,10 @@
   },
   {
     "abbreviation": "olahraga",
-    "type": "Kementrian",
+    "type": "Kementerian",
     "title": "Menteri Olahraga",
     "description": "Menteri Olahraga BEM UNAI bertanggung jawab untuk mengelola kegiatan olahraga dan kesehatan mahasiswa.",
-    "image": "kementrian",
+    "image": "kementerian",
     "family": ["olahraga", "ukm", "mibak"]
   },
   {
@@ -117,10 +117,10 @@
   },
   {
     "abbreviation": "kominfo",
-    "type": "Kementrian",
+    "type": "Kementerian",
     "title": "Menteri Komunikasi",
     "description": "Menteri Komunikasi BEM UNAI bertanggung jawab untuk mengelola komunikasi internal dan eksternal organisasi.",
-    "image": "kementrian",
+    "image": "kementerian",
     "family": ["kominfo", "mulmed", "sosmed", "humas"]
   },
   {
@@ -149,10 +149,10 @@
   },
   {
     "abbreviation": "ham",
-    "type": "Kementrian",
+    "type": "Kementerian",
     "title": "Menteri Hak Asasi Manusia",
     "description": "Menteri Hak Asasi Manusia BEM UNAI bertanggung jawab untuk mengadvokasi dan melindungi hak asasi manusia di kampus.",
-    "image": "kementrian",
+    "image": "kementerian",
     "family": ["ham", "advokasi"]
   },
   {
@@ -165,10 +165,10 @@
   },
   {
     "abbreviation": "kesehatan",
-    "type": "Kementrian",
+    "type": "Kementerian",
     "title": "Menteri Kesehatan",
     "description": "Menteri Kesehatan BEM UNAI bertanggung jawab untuk mengelola kegiatan kesehatan mahasiswa dan lingkungan sekitar.",
-    "image": "kementrian",
+    "image": "kementerian",
     "family": ["kesehatan", "edukasi"]
   },
   {
@@ -181,10 +181,10 @@
   },
   {
     "abbreviation": "luneg",
-    "type": "Kementrian",
+    "type": "Kementerian",
     "title": "Menteri Luar Negri",
     "description": "Menteri Luar Negri BEM UNAI bertanggung jawab untuk mengelola hubungan internasional dan kerjasama dengan organisasi luar.",
-    "image": "kementrian",
+    "image": "kementerian",
     "family": ["luneg", "diplomasi", "ia"]
   },
   {
@@ -205,10 +205,10 @@
   },
   {
     "abbreviation": "agama",
-    "type": "Kementrian",
+    "type": "Kementerian",
     "title": "Menteri Agama",
     "description": "Menteri Agama BEM UNAI bertanggung jawab untuk mengelola kegiatan keagamaan di kampus dan mengadvokasi nilai-nilai keagamaan.",
-    "image": "kementrian",
+    "image": "kementerian",
     "family": ["agama", "pengkar"]
   },
   {
@@ -221,10 +221,10 @@
   },
   {
     "abbreviation": "pendik",
-    "type": "Kementrian",
+    "type": "Kementerian",
     "title": "Menteri Pendidikan",
     "description": "Menteri Pendidikan BEM UNAI bertanggung jawab untuk mengelola kegiatan pendidikan dan pengembangan mahasiswa.",
-    "image": "kementrian",
+    "image": "kementerian",
     "family": ["pendik", "muku"]
   },
   {
